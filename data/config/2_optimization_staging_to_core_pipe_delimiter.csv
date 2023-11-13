@@ -1,0 +1,7 @@
+1|hp_core.account|cleansing|cleanse_remove_row_when_header_column0_and_value_equal||1|current_timestamp()|system|current_timestamp()|system
+2|hp_core.account|cleansing|cleanse_remove_duplicate_rows||1|current_timestamp()|system|current_timestamp()|system
+3|hp_core.account|cleansing|cleanse_remove_double_quotes|[frequency]|1|current_timestamp()|system|current_timestamp()|system
+4|hp_core.account|transformation|transform_dateformat_yymmdd_to_yyyyMMdd|[date]|1|current_timestamp()|system|current_timestamp()|system
+5|hp_core.account|transformation|transform_rename_column|{'date': 'account_creation_date'}|1|current_timestamp()|system|current_timestamp()|system
+6|hp_core.account|transformation|transform_initcap|[frequency]|1|current_timestamp()|system|current_timestamp()|system
+7|hp_core.account|transformation|transform_string_to_long|[account_id,district_id,as_of_date]|1|current_timestamp()|system|current_timestamp()|system
