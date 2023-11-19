@@ -1,8 +1,5 @@
 # Hi there, I'm Deepanshu - aka Data Engineer 👋 
 
-
-## I'm a Husband, Son, Data Engineer, and Teacher!!
-
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Learn more about Data Engineering technologies
